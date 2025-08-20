@@ -3,4 +3,5 @@
 Screenshot 
 <img width="1736" height="1001" alt="image" src="https://github.com/user-attachments/assets/12b2723e-de0d-4818-97c3-abacb0156514" />
 App.py Screenshot added
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c4f00fb8-0519-4f44-aadc-685f7161a905" />
+<img width="1880" height="706" alt="image" src="https://github.com/user-attachments/assets/b8e7c7dc-9a15-4875-b510-0a19bab1738c" />
+
