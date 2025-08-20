@@ -7,3 +7,4 @@ Screenshot
 App.py Screenshot added
 <img width="1880" height="706" alt="image" src="https://github.com/user-attachments/assets/b8e7c7dc-9a15-4875-b510-0a19bab1738c" />
 
+ppt link : https://1drv.ms/p/c/434d87f7cd9dc679/EQH9smYmcOtJjSOBVnGQkg8BVkGxIx0_QDF4eHkvz3wUuQ?e=aNTGas
